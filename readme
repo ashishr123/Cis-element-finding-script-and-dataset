@@ -1,0 +1,2 @@
+Run the PERL scipt by $script_name input_gene_file.
+Here, the gene file should be having the individual gene sequences for which the cis elements need to be localized.
